@@ -1,0 +1,63 @@
+body {
+  background-color: powderblue;
+  font-family: 'Comic Sans MS';
+  margin: 50px;
+}
+h1 {
+  color: blue;
+  font-family: verdana;
+  margin: 20px;
+}
+p {
+  color: red;
+}
+footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+img {
+  border-style: solid;
+  max-width: 500px;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: red; 
+}
+a:hover {
+  color: red;
+}
+#main-header {
+background-color: hotpink;
+text-align: center;
+padding: 20px;
+}
+h1.main-header {
+  margin: 0px;
+  font-size: 32px;
+}
+p.main-header {
+  font-size: 16px;
+  margin-top: 10px;
+}
+.content-article {
+  background-color: lime;
+  border: solid;
+  border-radius: 1px;
+  border-color: #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+h2.content-article {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+p.content-article {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5;
+}
